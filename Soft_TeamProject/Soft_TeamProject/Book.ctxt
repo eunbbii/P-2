@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\r\n\ Book\ \uD074\uB798\uC2A4\uC758\ \uC124\uBA85\uC744\ \uC791\uC131\uD558\uC138\uC694.\r\n\r\n\ @author\ (\uC791\uC131\uC790\ \uC774\uB984)\r\n\ @version\ (\uBC84\uC804\ \uBC88\uD638\ \uB610\uB294\ \uC791\uC131\uD55C\ \uB0A0\uC9DC)\r\n
+comment1.params=title\ author\ num
+comment1.target=Book(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Book\ \uD074\uB798\uC2A4\uC758\ \uAC1D\uCCB4\ \uC0DD\uC131\uC790\r\n
+comment2.params=num
+comment2.target=Book\ Find(int)
+comment3.params=
+comment3.target=boolean\ Check()
+comment4.params=title
+comment4.target=java.lang.String\ getTitle(java.lang.String)
+comment5.params=author
+comment5.target=java.lang.String\ author(java.lang.String)
+comment6.params=num
+comment6.target=int\ addNum(int)
+numComments=7
